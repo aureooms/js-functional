@@ -1,0 +1,11 @@
+{
+	"license": "AGPL-3.0",
+	"main": "js/dist/functional.js",
+	"name": "aureooms-js-functional",
+	"repo": "aureooms/js-functional",
+	"scripts": [
+		"js/dist/functional.js"
+	],
+	"version": "0.0.0",
+	"description": "Functional programming code bricks for JavaScript"
+}

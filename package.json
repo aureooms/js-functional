@@ -1,0 +1,36 @@
+{
+	"repository": {
+		"url": "https://github.com/aureooms/js-functional.git",
+		"type": "git"
+	},
+	"homepage": "http://aureooms.github.io/js-functional/",
+	"keywords": [
+		"bricks",
+		"ender",
+		"functional",
+		"javascript",
+		"js",
+		"programming"
+	],
+	"scripts": {
+		"doc": "./node_modules/.bin/groc",
+		"build": "./node_modules/.bin/aureooms-node-package-build",
+		"test": "./node_modules/.bin/aureooms-node-package-test"
+	},
+	"version": "0.0.0",
+	"description": "Functional programming code bricks for JavaScript",
+	"dependencies": {},
+	"main": "js/dist/functional.js",
+	"name": "aureooms-js-functional",
+	"devDependencies": {
+		"aureooms-node-package": "^4.2.5"
+	},
+	"spm": {
+		"main": "js/dist/functional.js"
+	},
+	"license": "AGPL-3.0",
+	"bugs": {
+		"url": "https://github.com/aureooms/js-functional/issues"
+	},
+	"author": "aureooms"
+}
