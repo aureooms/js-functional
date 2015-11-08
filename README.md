@@ -93,3 +93,7 @@ Alternatively, you can use any tool mentioned [here](http://bower.io/docs/tools/
 ```js
 require( [ "aureooms-js-functional" ] , function ( functional ) { ... } ) ;
 ```
+
+## References
+
+  - https://github.com/natefaubion/adt.js
