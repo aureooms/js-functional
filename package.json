@@ -23,7 +23,7 @@
 	"main": "js/dist/functional.js",
 	"name": "aureooms-js-functional",
 	"devDependencies": {
-		"aureooms-node-package": "^4.2.5"
+		"aureooms-node-package": "^7.0.0"
 	},
 	"spm": {
 		"main": "js/dist/functional.js"
