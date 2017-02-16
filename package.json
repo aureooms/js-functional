@@ -21,7 +21,7 @@
 	"description": "Functional programming code bricks for JavaScript",
 	"dependencies": {},
 	"main": "js/dist/functional.js",
-	"name": "aureooms-js-functional",
+	"name": "@aureooms/js-functional",
 	"devDependencies": {
 		"aureooms-node-package": "^4.2.5"
 	},
