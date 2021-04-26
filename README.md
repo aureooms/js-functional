@@ -3,17 +3,17 @@
 
 Functional programming code bricks for JavaScript
 
-[![License](https://img.shields.io/github/license/aureooms/js-functional.svg?style=flat)](https://raw.githubusercontent.com/aureooms/js-functional/master/LICENSE)
+[![License](https://img.shields.io/github/license/make-github-pseudonymous-again/js-functional.svg?style=flat)](https://raw.githubusercontent.com/make-github-pseudonymous-again/js-functional/master/LICENSE)
 [![NPM version](https://img.shields.io/npm/v/@aureooms/js-functional.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-functional)
 [![Bower version](https://img.shields.io/bower/v/@aureooms/js-functional.svg?style=flat)](http://bower.io/search/?q=@aureooms/js-functional)
-[![Build Status](https://img.shields.io/travis/aureooms/js-functional.svg?style=flat)](https://travis-ci.org/aureooms/js-functional)
-[![Coverage Status](https://img.shields.io/coveralls/aureooms/js-functional.svg?style=flat)](https://coveralls.io/r/aureooms/js-functional)
-[![Dependencies Status](https://img.shields.io/david/aureooms/js-functional.svg?style=flat)](https://david-dm.org/aureooms/js-functional#info=dependencies)
-[![devDependencies Status](https://img.shields.io/david/dev/aureooms/js-functional.svg?style=flat)](https://david-dm.org/aureooms/js-functional#info=devDependencies)
-[![Code Climate](https://img.shields.io/codeclimate/github/aureooms/js-functional.svg?style=flat)](https://codeclimate.com/github/aureooms/js-functional)
+[![Build Status](https://img.shields.io/travis/make-github-pseudonymous-again/js-functional.svg?style=flat)](https://travis-ci.org/make-github-pseudonymous-again/js-functional)
+[![Coverage Status](https://img.shields.io/coveralls/make-github-pseudonymous-again/js-functional.svg?style=flat)](https://coveralls.io/r/make-github-pseudonymous-again/js-functional)
+[![Dependencies Status](https://img.shields.io/david/make-github-pseudonymous-again/js-functional.svg?style=flat)](https://david-dm.org/make-github-pseudonymous-again/js-functional#info=dependencies)
+[![devDependencies Status](https://img.shields.io/david/dev/make-github-pseudonymous-again/js-functional.svg?style=flat)](https://david-dm.org/make-github-pseudonymous-again/js-functional#info=devDependencies)
+[![Code Climate](https://img.shields.io/codeclimate/github/make-github-pseudonymous-again/js-functional.svg?style=flat)](https://codeclimate.com/github/make-github-pseudonymous-again/js-functional)
 [![NPM downloads per month](https://img.shields.io/npm/dm/@aureooms/js-functional.svg?style=flat)](https://www.npmjs.org/package/@aureooms/js-functional)
-[![GitHub issues](https://img.shields.io/github/issues/aureooms/js-functional.svg?style=flat)](https://github.com/aureooms/js-functional/issues)
-[![Inline docs](http://inch-ci.org/github/aureooms/js-functional.svg?branch=master&style=shields)](http://inch-ci.org/github/aureooms/js-functional)
+[![GitHub issues](https://img.shields.io/github/issues/make-github-pseudonymous-again/js-functional.svg?style=flat)](https://github.com/make-github-pseudonymous-again/js-functional/issues)
+[![Inline docs](http://inch-ci.org/github/make-github-pseudonymous-again/js-functional.svg?branch=master&style=shields)](http://inch-ci.org/github/make-github-pseudonymous-again/js-functional)
 
 Can be managed through [jspm](https://github.com/jspm/jspm-cli),
 [duo](https://github.com/duojs/duo),

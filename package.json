@@ -1,6 +1,6 @@
 {
 	"repository": {
-		"url": "https://github.com/aureooms/js-functional.git",
+		"url": "https://github.com/make-github-pseudonymous-again/js-functional.git",
 		"type": "git"
 	},
 	"homepage": "http://make-github-pseudonymous-again.github.io/js-functional/",
@@ -30,7 +30,7 @@
 	},
 	"license": "AGPL-3.0",
 	"bugs": {
-		"url": "https://github.com/aureooms/js-functional/issues"
+		"url": "https://github.com/make-github-pseudonymous-again/js-functional/issues"
 	},
 	"author": "aureooms"
 }
