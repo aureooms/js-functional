@@ -1,4 +1,4 @@
-[js-functional](http://aureooms.github.io/js-functional)
+[js-functional](http://make-github-pseudonymous-again.github.io/js-functional)
 ==
 
 Functional programming code bricks for JavaScript
